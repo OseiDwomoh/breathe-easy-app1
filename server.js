@@ -1,4 +1,4 @@
-//This is required code in "server.js" that starts up the server.
+// Requirements
 require('dotenv').config();
 const express = require('express');
 const { Pool } = require('pg');
